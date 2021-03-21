@@ -1,4 +1,4 @@
-# 第二章 正则表达式，文本规范化，编辑距离
+# 第二章 正则表达式，文本规范化，编辑距离（*Regular Expressions, Text Normalization, Edit Distance*）
 
 > 用户：我不开心。  
 > ELIZA：你认为来这里会帮助你变得开心吗  
