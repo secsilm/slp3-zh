@@ -5,3 +5,4 @@
   * [2.2 词](chapter2/2.2_Words.md)
   * [2.3 语料库](chapter2/2.3_Corpora.md)
   * [2.4 文本规范化](chapter2/2.4_Text-Normalization.md)
+  * [中英文对照表](chapter2/glossary.md)
