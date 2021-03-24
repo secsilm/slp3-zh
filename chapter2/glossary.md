@@ -11,4 +11,6 @@
 | 7 | 词例 | token |
 | 8 | 词型 | wordform |
 | 9 | [语码转换](https://zh.wikipedia.org/zh-cn/%E8%AA%9E%E7%A2%BC%E8%BD%89%E6%8F%9B) | code switching |
+| 10 | [附着语素](https://zh.wikipedia.org/wiki/%E9%99%84%E8%91%97%E8%AA%9E%E7%B4%A0) | clitic |
+| 11 | [属格](https://zh.wikipedia.org/wiki/%E5%B1%9E%E6%A0%BC)标记 | genitive marker |
 | | | |
