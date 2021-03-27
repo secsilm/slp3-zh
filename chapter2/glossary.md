@@ -17,4 +17,6 @@
 | 13 | [一元语法](https://zh.wikipedia.org/wiki/N%E5%85%83%E8%AF%AD%E6%B3%95) | Unigram |
 | 14 | 词汇表 | Vocabulary |
 | 15 | 大小写折叠 | Case Folding |
+| 16 | [形态学/构词学/词法学](https://zh.wikipedia.org/wiki/%E8%AF%8D%E6%B3%95%E5%AD%A6) | Morphology |
+| 17 | 形态学解析 | [Morphological Parsing](https://en.wikipedia.org/wiki/Morphological_parsing) |
 | | | |
