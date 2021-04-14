@@ -27,10 +27,10 @@
   - [2.5 最小编辑距离](chapter2/2.5_Minimum-Edit-Distance.md)
     - 2.5.1 最小编辑距离算法（*进行中*）
 
-## 计划
+## TODO
 
 接下来计划要翻译的章节：
 
-- [Chapter 8: Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)（27 页，[2.5.1](chapter2/2.5_Minimum-Edit-Distance.md) 中提到）
-- [Chapter 12: Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)（30 页）
-- [Chapter 13: Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)（22 页，[2.5.1](chapter2/2.5_Minimum-Edit-Distance.md) 中提到）
+- [ ] [Chapter 8: Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)（27 页，[2.5.1](chapter2/2.5_Minimum-Edit-Distance.md) 中提到）
+- [ ] [Chapter 12: Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)（30 页）
+- [ ] [Chapter 13: Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)（22 页，[2.5.1](chapter2/2.5_Minimum-Edit-Distance.md) 中提到）
