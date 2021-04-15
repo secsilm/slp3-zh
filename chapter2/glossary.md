@@ -19,4 +19,6 @@
 | 15 | 大小写折叠 | Case Folding |
 | 16 | [形态学/构词学/词法学](https://zh.wikipedia.org/wiki/%E8%AF%8D%E6%B3%95%E5%AD%A6) | Morphology |
 | 17 | 形态学解析 | [Morphological Parsing](https://en.wikipedia.org/wiki/Morphological_parsing) |
+| 18 | 字错率 | [Word Error Rate](https://en.wikipedia.org/wiki/Word_error_rate) |
+| 19 | 最大概率对齐 | Maximum Probability Alignment |
 | | | |
