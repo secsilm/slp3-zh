@@ -21,4 +21,6 @@
 | 17 | 形态学解析 | [Morphological Parsing](https://en.wikipedia.org/wiki/Morphological_parsing) |
 | 18 | 字错率 | [Word Error Rate](https://en.wikipedia.org/wiki/Word_error_rate) |
 | 19 | 最大概率对齐 | Maximum Probability Alignment |
+| 20 | 双元音 | Diphthong |
+| 21 | 冠词 | article |
 | | | |
