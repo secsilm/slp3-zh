@@ -8,4 +8,5 @@
   * [2.5 最小编辑距离](chapter2/2.5_Minimum-Edit-Distance.md)
   * [2.6 总结](chapter2/2.6_Summary.md)
 * [第八章 用于词性和命名实体的序列标注](chapter8/intro.md)
+  * [8.1 英语词类](chapter8/8.1_(Mostly)-English-Word-Classes.md)
 * [中英文对照表](glossary.md)

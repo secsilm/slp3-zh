@@ -28,7 +28,8 @@
     - 2.5.1 最小编辑距离算法
   - [2.6 总结](chapter2/2.6_Summary.md)
 - 第八章 用于词性和命名实体的序列标注
-  - [Intro](chapter8/intro.md)（*进行中*）
+  - [Intro](chapter8/intro.md)
+  - [8.1 英语词类](chapter8/8.1_(Mostly)-English-Word-Classes.md)（*进行中*）
 
 ## TODO
 
