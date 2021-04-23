@@ -24,4 +24,8 @@
 | 20 | [双元音](https://zh.wikipedia.org/wiki/%E5%8F%8C%E5%85%83%E9%9F%B3) | Diphthong |
 | 21 | 冠词 | Article |
 | 22 | 立场检测 | [Stance Detection](http://nlpprogress.com/english/stance_detection.html) |
+| 23 | 词类 | [Word Class](https://www.ucl.ac.uk/internet-grammar/wordclas/wordclas.htm) |
+| 24 | 开放词类 | Open Class |
+| 25 | [封闭词类](https://zh.wikipedia.org/wiki/%E5%B0%81%E9%97%AD%E8%AF%8D%E7%B1%BB) | Closed Class |
+| 26 | [虚词](https://zh.wikipedia.org/wiki/%E8%99%9A%E8%AF%8D) | Fuction Word |
 | | | |
