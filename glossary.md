@@ -28,4 +28,9 @@
 | 24 | 开放词类 | Open Class |
 | 25 | [封闭词类](https://zh.wikipedia.org/wiki/%E5%B0%81%E9%97%AD%E8%AF%8D%E7%B1%BB) | Closed Class |
 | 26 | [虚词](https://zh.wikipedia.org/wiki/%E8%99%9A%E8%AF%8D) | Fuction Word |
+| 27 | 普通名词 | Common Noun |
+| 28 | 专有名词 | Proper Noun |
+| 29 | 所有格 | [Possessive](https://en.wikipedia.org/wiki/Possessive) |
+| 30 | 可数名词 | [Count Noun](https://en.wikipedia.org/wiki/Count_noun) |
+| 31 | 不可数名词 | [Mass Noun](https://en.wikipedia.org/wiki/Mass_noun) |
 | | | |
