@@ -33,4 +33,8 @@
 | 29 | 所有格 | [Possessive](https://en.wikipedia.org/wiki/Possessive) |
 | 30 | 可数名词 | [Count Noun](https://en.wikipedia.org/wiki/Count_noun) |
 | 31 | 不可数名词 | [Mass Noun](https://en.wikipedia.org/wiki/Mass_noun) |
+| 32 | [主动词](https://baike.baidu.com/item/%E4%B8%BB%E5%8A%A8%E8%AF%8D) | [Main Verb](https://www.ucl.ac.uk/internet-grammar/verbs/main.htm) |
+| 33 | [词形变化](https://zh.wikipedia.org/wiki/%E8%AF%8D%E5%BD%A2%E5%8F%98%E5%8C%96) | Inflection |
+| 34 | 进行时 | Progressive |
+| 35 | 过去分词 | Past Participle |
 | | | |
