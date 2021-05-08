@@ -37,4 +37,8 @@
 | 33 | [词形变化](https://zh.wikipedia.org/wiki/%E8%AF%8D%E5%BD%A2%E5%8F%98%E5%8C%96) | Inflection |
 | 34 | 进行时 | Progressive |
 | 35 | 过去分词 | Past Participle |
+| 36 | 方位副词 | Directional Adverb/Locative Adverb |
+| 37 | 程度副词 | Degree Adverb |
+| 38 | [情态副词](http://www.taiwantestcentral.com/grammar/Title.aspx?ID=20) | Manner Adverb |
+| 39 | 时间副词 | Temporal Adverb |
 | | | |
