@@ -41,4 +41,7 @@
 | 37 | 程度副词 | Degree Adverb |
 | 38 | [情态副词](http://www.taiwantestcentral.com/grammar/Title.aspx?ID=20) | Manner Adverb |
 | 39 | 时间副词 | Temporal Adverb |
+| 40 | [助词](https://zh.wikipedia.org/wiki/%E5%8A%A9%E8%A9%9E) | Particle |
+| 41 | 短语动词/动词词组？ | [Phrasal Verb](https://en.wikipedia.org/wiki/English_phrasal_verbs) |
+| | | |
 | | | |
