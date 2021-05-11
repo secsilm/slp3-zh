@@ -43,5 +43,9 @@
 | 39 | 时间副词 | Temporal Adverb |
 | 40 | [助词](https://zh.wikipedia.org/wiki/%E5%8A%A9%E8%A9%9E) | Particle |
 | 41 | 短语动词/动词词组？ | [Phrasal Verb](https://en.wikipedia.org/wiki/English_phrasal_verbs) |
-| | | |
+| 42 | 定语 | Determiner |
+| 43 | 并列连词 | Coordinating Conjunction |
+| 44 | 从属连词 | Subordinating Conjunction |
+| 45 | 补语连词 | [Complementizer](https://en.wikipedia.org/wiki/Complementizer) |
+| 46 | [论元](https://zh.wikipedia.org/wiki/%E8%AE%BA%E5%85%83) | Argument |
 | | | |
