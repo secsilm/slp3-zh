@@ -48,4 +48,10 @@
 | 44 | 从属连词 | Subordinating Conjunction |
 | 45 | 补语连词 | [Complementizer](https://en.wikipedia.org/wiki/Complementizer) |
 | 46 | [论元](https://zh.wikipedia.org/wiki/%E8%AE%BA%E5%85%83) | Argument |
+| 47 | [人称代词](https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%A8%B1%E4%BB%A3%E8%A9%9E) | Personal Pronoun |
+| 48 | [物主代词](https://baike.baidu.com/item/%E7%89%A9%E4%B8%BB%E4%BB%A3%E8%AF%8D) | Possessive Pronoun |
+| 49 | [体](https://zh.wikipedia.org/wiki/%E4%BD%93_(%E8%AF%AD%E6%B3%95)) | Aspect |
+| 50 | [语气](https://zh.wikipedia.org/wiki/%E8%AF%AD%E6%B0%94) | Mood |
+| 51 | [系词](https://zh.wikipedia.org/wiki/%E7%B3%BB%E8%A9%9E) | Copula |
+| 52 | 情态动词 | Modal Verb |
 | | | |
