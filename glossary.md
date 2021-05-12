@@ -54,4 +54,5 @@
 | 50 | [语气](https://zh.wikipedia.org/wiki/%E8%AF%AD%E6%B0%94) | Mood |
 | 51 | [系词](https://zh.wikipedia.org/wiki/%E7%B3%BB%E8%A9%9E) | Copula |
 | 52 | 情态动词 | Modal Verb |
+| 53 | [助动词](https://zh.wikipedia.org/wiki/%E5%8A%A9%E5%8B%95%E8%A9%9E) | Auxiliary Verb |
 | | | |
