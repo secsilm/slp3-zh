@@ -9,4 +9,5 @@
   * [2.6 总结](chapter2/2.6_Summary.md)
 * [第八章 用于词性和命名实体的序列标注](chapter8/intro.md)
   * [8.1 英语词类](chapter8/8.1_Mostly-English-Word-Classes.md)
+  * [8.2 词性标注](chapter8/8.2_Part-of-Speech-Tagging.md)
 * [中英文对照表](glossary.md)
