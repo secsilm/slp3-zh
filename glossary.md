@@ -9,7 +9,7 @@
 | 5 | 词形还原 | Lemmatization |
 | 6 | 词型 | Type |
 | 7 | 词例 | Token |
-| 8 | 词型 | Wordform |
+| 8 | 词形 | Wordform |
 | 9 | [语码转换](https://zh.wikipedia.org/zh-cn/%E8%AA%9E%E7%A2%BC%E8%BD%89%E6%8F%9B) | Code Switching |
 | 10 | [附着语素](https://zh.wikipedia.org/wiki/%E9%99%84%E8%91%97%E8%AA%9E%E7%B4%A0) | Clitic |
 | 11 | [属格](https://zh.wikipedia.org/wiki/%E5%B1%9E%E6%A0%BC)标记 | Genitive Marker |
