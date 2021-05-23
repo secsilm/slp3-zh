@@ -42,7 +42,8 @@
   - [8.3 命名实体和命名实体标注](chapter8/8.3_Named-Entities-and-Named-Entity-Tagging.md)
   - [8.4 HMM 词性标注](chapter8/8.4_HMM-Part-of-Speech-Tagging.md)
     - 8.4.1 马克可夫链
-    - 8.4.2 隐马尔可夫模型（*进行中*）
+    - 8.4.2 隐马尔可夫模型
+    - 8.4.3 HMM 标注器组件（*进行中*）
 
 ## TODO
 
