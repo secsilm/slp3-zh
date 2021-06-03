@@ -12,4 +12,5 @@
   * [8.2 词性标注](chapter8/8.2_Part-of-Speech-Tagging.md)
   * [8.3 命名实体和命名实体标注](chapter8/8.3_Named-Entities-and-Named-Entity-Tagging.md)
   * [8.4 HMM 词性标注](chapter8/8.4_HMM-Part-of-Speech-Tagging.md)
+  * [8.5 条件随机场 CRF](chapter8/8.5_Conditional-Random-Fields.md)
 * [中英文对照表](glossary.md)
