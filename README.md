@@ -47,7 +47,7 @@
     - 8.4.4 HMM 标注的解码部分
     - 8.4.5 维特比算法
     - 8.4.6 例子
-  - [8.5 条件随机场 CRF（*进行中*）](chapter8/8.5_Conditional-Random-Fields.md)
+  - [8.5 条件随机场 CRF](chapter8/8.5_Conditional-Random-Fields.md)（*进行中*）
 
 ## TODO
 
