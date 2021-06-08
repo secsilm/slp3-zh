@@ -54,5 +54,6 @@
 接下来计划要翻译的章节：
 
 - [ ] 【进行中】[Chapter 8: Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)（27 页，[2.5.1](chapter2/2.5_Minimum-Edit-Distance.md) 中提到）
+- [ ] [Chapter 5: Logistic Regression](https://web.stanford.edu/~jurafsky/slp3/5.pdf)（21 页，[8.5](chapter8/8.5_Conditional-Random-Fields.md) 中提到）
 - [ ] [Chapter 12: Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)（30 页）
 - [ ] [Chapter 13: Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)（22 页，[2.5.1](chapter2/2.5_Minimum-Edit-Distance.md) 中提到）
