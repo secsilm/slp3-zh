@@ -48,7 +48,11 @@
     - 8.4.5 维特比算法
     - 8.4.6 例子
   - [8.5 条件随机场 CRF](chapter8/8.5_Conditional-Random-Fields.md)
-    - 8.5.1 CRF 词性标注器中的特征（*进行中*）
+    - 8.5.1 CRF 词性标注器中的特征
+    - 8.5.2 用于命名实体识别的 CRF 特征
+    - 8.5.3 CRF 的推理和训练
+  - [8.6 命名实体识别的评估方法](chapter8/8.6_Evaluation-of-Named-Entity-Recognition.md)
+  - [8.7 更多细节](chapter8/8.7_Further-Details.md)（*进行中*）
 
 ## TODO
 
