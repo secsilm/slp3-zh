@@ -54,7 +54,8 @@
   - [8.6 命名实体识别的评估方法](chapter8/8.6_Evaluation-of-Named-Entity-Recognition.md)
   - [8.7 更多细节](chapter8/8.7_Further-Details.md)
     - 8.7.1 双向性
-    - 8.7.2 基于规则的方法（*进行中*）
+    - 8.7.2 基于规则的方法
+    - 8.7.3 形态丰富语言的词性标注（*进行中*）
 
 ## TODO
 
