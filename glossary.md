@@ -56,4 +56,5 @@
 | 52 | 情态动词 | Modal Verb |
 | 53 | [助动词](https://zh.wikipedia.org/wiki/%E5%8A%A9%E5%8B%95%E8%A9%9E) | Auxiliary Verb |
 | 54 | [调和平均数](https://zh.wikipedia.org/zh-cn/%E8%B0%83%E5%92%8C%E5%B9%B3%E5%9D%87%E6%95%B0) | Harmonic Mean |
+| 55 | [词形变化/形态变化/屈折变化](https://zh.wikipedia.org/wiki/%E8%AF%8D%E5%BD%A2%E5%8F%98%E5%8C%96) | Inflection |
 | | | |
