@@ -58,7 +58,7 @@
     - 8.7.3 形态丰富语言的词性标注
   - [8.8 总结](chapter8/8.8_Summary.md)
 - 第十二章 句法成分
-  - [Intro](chapter12/intro.md)
+  - [Intro](chapter12/intro.md)（*进行中*）
 
 ## TODO
 
