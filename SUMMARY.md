@@ -15,4 +15,5 @@
   * [8.5 条件随机场 CRF](chapter8/8.5_Conditional-Random-Fields.md)
   * [8.6 命名实体识别的评估方法](chapter8/8.6_Evaluation-of-Named-Entity-Recognition.md)
   * [8.7 更多细节](chapter8/8.7_Further-Details.md)
+  * [8.8 总结](chapter8/8.8_Summary.md)
 * [中英文对照表](glossary.md)

@@ -55,13 +55,15 @@
   - [8.7 更多细节](chapter8/8.7_Further-Details.md)
     - 8.7.1 双向性
     - 8.7.2 基于规则的方法
-    - 8.7.3 形态丰富语言的词性标注（*进行中*）
+    - 8.7.3 形态丰富语言的词性标注
+  - [8.8 总结](chapter8/8.8_Summary.md)
+- 第十二章 句法成分
 
 ## TODO
 
 接下来计划要翻译的章节：
 
-- [ ] 【进行中】[Chapter 8: Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)（27 页，[2.5.1](chapter2/2.5_Minimum-Edit-Distance.md) 中提到）
+- [x] [Chapter 8: Sequence Labeling for Parts of Speech and Named Entities](https://web.stanford.edu/~jurafsky/slp3/8.pdf)（27 页，[2.5.1](chapter2/2.5_Minimum-Edit-Distance.md) 中提到）
 - [ ] [Chapter 5: Logistic Regression](https://web.stanford.edu/~jurafsky/slp3/5.pdf)（21 页，[8.5](chapter8/8.5_Conditional-Random-Fields.md) 中提到）
-- [ ] [Chapter 12: Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)（30 页）
+- [ ] 【进行中】[Chapter 12: Constituency Grammars](https://web.stanford.edu/~jurafsky/slp3/12.pdf)（30 页）
 - [ ] [Chapter 13: Constituency Parsing](https://web.stanford.edu/~jurafsky/slp3/13.pdf)（22 页，[2.5.1](chapter2/2.5_Minimum-Edit-Distance.md) 中提到）
