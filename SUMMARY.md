@@ -16,6 +16,6 @@
   * [8.6 命名实体识别的评估方法](chapter8/8.6_Evaluation-of-Named-Entity-Recognition.md)
   * [8.7 更多细节](chapter8/8.7_Further-Details.md)
   * [8.8 总结](chapter8/8.8_Summary.md)
-* [第十二章 句法成分](chapter12/intro.md)
+* [第十二章 成分文法](chapter12/intro.md)
   * [12.1 句法](chapter12/12.1_Constituency.md)
 * [中英文对照表](glossary.md)

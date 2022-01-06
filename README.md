@@ -57,7 +57,7 @@
     - 8.7.2 基于规则的方法
     - 8.7.3 形态丰富语言的词性标注
   - [8.8 总结](chapter8/8.8_Summary.md)
-- 第十二章 句法成分
+- 第十二章 成分文法
   - [Intro](chapter12/intro.md)
   - [12.1 句法](chapter12/12.1_Constituency.md)（*进行中*）
 
