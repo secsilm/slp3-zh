@@ -57,4 +57,10 @@
 | 53 | [助动词](https://zh.wikipedia.org/wiki/%E5%8A%A9%E5%8B%95%E8%A9%9E) | Auxiliary Verb |
 | 54 | [调和平均数](https://zh.wikipedia.org/zh-cn/%E8%B0%83%E5%92%8C%E5%B9%B3%E5%9D%87%E6%95%B0) | Harmonic Mean |
 | 55 | [词形变化/形态变化/屈折变化](https://zh.wikipedia.org/wiki/%E8%AF%8D%E5%BD%A2%E5%8F%98%E5%8C%96) | Inflection |
+| 56 | [形式模型](http://terms.naer.edu.tw/detail/1278848/) | Formal Model |
+| 57 | [上下文无关文法](https://zh.wikipedia.org/wiki/%E4%B8%8A%E4%B8%8B%E6%96%87%E6%97%A0%E5%85%B3%E6%96%87%E6%B3%95) | Context-free Grammar/CFG |
+| 58 | 词法化文法 | Lexicalized Grammar |
+| 59 | [组合范畴语法](https://zh.wikipedia.org/wiki/%E7%BB%84%E5%90%88%E8%8C%83%E7%95%B4%E8%AF%AD%E6%B3%95) | Combinatory Categorial Grammar/CCG |
+| 60 | 句法依存 | Syntactic Dependency |
+| 61 | 依存分析 | Dependency Parsing |
 | | | |
