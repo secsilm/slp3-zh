@@ -63,4 +63,6 @@
 | 59 | [组合范畴语法](https://zh.wikipedia.org/wiki/%E7%BB%84%E5%90%88%E8%8C%83%E7%95%B4%E8%AF%AD%E6%B3%95) | Combinatory Categorial Grammar/CCG |
 | 60 | 句法依存 | Syntactic Dependency |
 | 61 | 依存分析 | Dependency Parsing |
+| 62 | 短语结构文法 | [Phrase-Structure Grammar](https://en.wikipedia.org/wiki/Phrase_structure_grammar) |
+| 63 | [巴科斯-诺尔范式](https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%A7%91%E6%96%AF%E8%8C%83%E5%BC%8F) | Backus-Naur Form/BNF |
 | | | |
