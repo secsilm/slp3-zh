@@ -60,7 +60,7 @@
 - 第十二章 成分文法
   - [Intro](chapter12/intro.md)
   - [12.1 句法](chapter12/12.1_Constituency.md)
-  - [12.2 上下午无关文法](chapter12/12.2_Context-Free-Grammars.md)（*进行中*）
+  - [12.2 上下文无关文法](chapter12/12.2_Context-Free-Grammars.md)（*进行中*）
 
 ## TODO
 

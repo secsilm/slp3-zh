@@ -18,5 +18,5 @@
   * [8.8 总结](chapter8/8.8_Summary.md)
 * [第十二章 成分文法](chapter12/intro.md)
   * [12.1 句法](chapter12/12.1_Constituency.md)
-  * [12.2 上下午无关文法](chapter12/12.2_Context-Free-Grammars.md)
+  * [12.2 上下文无关文法](chapter12/12.2_Context-Free-Grammars.md)
 * [中英文对照表](glossary.md)
