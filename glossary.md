@@ -65,4 +65,6 @@
 | 61 | 依存分析 | Dependency Parsing |
 | 62 | 短语结构文法 | [Phrase-Structure Grammar](https://en.wikipedia.org/wiki/Phrase_structure_grammar) |
 | 63 | [巴科斯-诺尔范式](https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%A7%91%E6%96%AF%E8%8C%83%E5%BC%8F) | Backus-Naur Form/BNF |
+| 64 | [终结符](https://zh.wikipedia.org/zh-cn/%E7%B5%82%E7%B5%90%E7%AC%A6%E8%88%87%E9%9D%9E%E7%B5%82%E7%B5%90%E7%AC%A6) | Terminal Symbol |
+| 65 | [非终结符](https://zh.wikipedia.org/zh-cn/%E7%B5%82%E7%B5%90%E7%AC%A6%E8%88%87%E9%9D%9E%E7%B5%82%E7%B5%90%E7%AC%A6) | Nonterminal Symbol |
 | | | |
