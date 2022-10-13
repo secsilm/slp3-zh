@@ -67,7 +67,8 @@
 | 63 | [巴科斯-诺尔范式](https://zh.wikipedia.org/wiki/%E5%B7%B4%E7%A7%91%E6%96%AF%E8%8C%83%E5%BC%8F) | Backus-Naur Form/BNF |
 | 64 | [终结符](https://zh.wikipedia.org/zh-cn/%E7%B5%82%E7%B5%90%E7%AC%A6%E8%88%87%E9%9D%9E%E7%B5%82%E7%B5%90%E7%AC%A6) | Terminal Symbol |
 | 65 | [非终结符](https://zh.wikipedia.org/zh-cn/%E7%B5%82%E7%B5%90%E7%AC%A6%E8%88%87%E9%9D%9E%E7%B5%82%E7%B5%90%E7%AC%A6) | Nonterminal Symbol |
-| 66 | [推导](https://zh.wikipedia.org/wiki/%E4%B8%8A%E4%B8%8B%E6%96%87%E6%97%A0%E5%85%B3%E6%96%87%E6%B3%95#%E6%8E%A8%E5%AF%BC%E4%B8%8E%E8%AF%AD%E6%B3%95%E6%A0%91) | Derivation |
+| 66 | [派生/推导](https://zh.wikipedia.org/wiki/%E4%B8%8A%E4%B8%8B%E6%96%87%E6%97%A0%E5%85%B3%E6%96%87%E6%B3%95#%E6%8E%A8%E5%AF%BC%E4%B8%8E%E8%AF%AD%E6%B3%95%E6%A0%91) | Derivation |
 | 67 | [分析树/解析树](https://zh.wikipedia.org/wiki/%E5%88%86%E6%9E%90%E6%A0%91) | Parse Tree |
 | 68 | [生成文法](https://zh.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E6%96%87%E6%B3%95)| Generative Grammar |
+|69|句法解析|[Syntactic Parsing](https://en.wikipedia.org/wiki/Syntactic_parsing_(computational_linguistics))|
 ||||
