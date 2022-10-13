@@ -61,7 +61,7 @@
   - [Intro](chapter12/intro.md)
   - [12.1 句法](chapter12/12.1_Constituency.md)
   - [12.2 上下文无关文法](chapter12/12.2_Context-Free-Grammars.md)
-  - [12.3 一些英语语法规则](chapter12/12.3_Some-Grammar-Rules-for-English.md（*进行中*）
+  - [12.3 一些英语语法规则](chapter12/12.3_Some-Grammar-Rules-for-English.md)（*进行中*）
 
 ## TODO
 
